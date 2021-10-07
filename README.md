@@ -15,7 +15,7 @@
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Bruno-WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/43623062?width=676&height=676">
+  <img align="right" alt="Bruno-pic" height="120" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/43623062?width=676&height=676">
 </div>
   
   ##
