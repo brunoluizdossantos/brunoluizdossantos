@@ -1,4 +1,4 @@
-## Olá, eu sou o Bruno Luiz e trabalho como Desenvolvedor .Net
+## Olá, me chamo Bruno Luiz e trabalho como Desenvolvedor .Net Sênior
 <div align="center">
   <a href="https://github.com/brunoluizdossantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoluizdossantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
